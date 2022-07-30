@@ -1,0 +1,35 @@
+.sec1 {
+    text-align: left;
+}
+
+.sec2 {
+    text-align: right;
+}
+
+.sec3 {
+    text-align: left;
+}
+
+.link1 {
+    color: aqua;
+}
+
+.link2 {
+    color: aqua;
+}
+
+.link3 {
+    color: aqua;
+}
+
+.link1:hover {
+    color: aquamarine;
+}
+
+.link2:hover {
+    color: aquamarine;
+}
+
+.link3:hover {
+    color: aquamarine;
+}

@@ -1,0 +1,8 @@
+Preloader code from: https://codepen.io/niyazpoyilan/pen/PGQKeK
+By: Niyaz Poyilan
+
+Parallax backround from: https://www.youtube.com/watch?v=1wfeqDyMUx4
+By: Online Tutorials
+
+Scroll progress bar from: https://codepen.io/ashvinmotye/pen/YBaVPZ
+By: Ashvin Motye

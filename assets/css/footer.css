@@ -1,0 +1,54 @@
+footer {
+    padding: 5px 50px;
+    width: 100%;
+    height: 120pxpx;
+    background: rgb(0, 0, 0);
+}
+
+.footer {
+    padding: 10px 100px;
+    width: 100%;
+    height: 100px;
+    background: rgb(0, 0, 0);
+}
+
+.footer li {
+    padding: 10px 25px;
+    list-style: none;
+}
+
+.footer  ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.socialheader {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.fa-instagram, .fa-youtube, .fa-twitter, .fa-github {
+    color: white;
+    transition: all 0.3s ease 0s;
+}
+
+.fa-instagram:hover, .fa-youtube:hover, .fa-twitter:hover, .fa-github:hover {
+    color: gray;
+    transition: all 0.3s ease 0s;
+}
+
+.credits {
+    text-decoration: none;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    left: 10px;
+}
+
+.credits:hover {
+    cursor: pointer;
+    color: gray;
+    transition: all 0.3s ease 0s;
+}

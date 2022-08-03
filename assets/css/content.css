@@ -33,3 +33,9 @@
 .link3:hover {
     color: aquamarine;
 }
+.ssec1 {
+    position: relative;
+    color: white;
+    top: 150px;
+    left: 50px;
+}
